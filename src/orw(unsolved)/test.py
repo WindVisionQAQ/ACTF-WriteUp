@@ -1,0 +1,21 @@
+st = '/home///SuperLo0000000000000ngFlagggggggggggggggggggggggName.txt'
+#st = 'home/orw/flag'
+print st.encode('hex')
+#53757065
+#724c6f30
+
+
+#0x7478742e
+#0x656d614e
+#0x67676767
+#0x67676767
+#0x67676767
+#0x67676767
+#0x67676767
+#0x67676767
+#0x6c46676e
+#0x30303030
+#0x30303030
+#0x30303030
+#0x306f4c72
+#0x65707553
